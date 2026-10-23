@@ -1,0 +1,11 @@
+ipykernel
+langchain-community
+pypdf
+langchain-google-genai
+faiss-cpu
+langchain-text-splitters
+langchain
+python-dotenv
+langchain-core
+streamlit
+langchain-openai

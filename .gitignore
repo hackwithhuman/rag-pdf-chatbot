@@ -1,0 +1,23 @@
+
+# Environment variables and API keys
+.env
+.env.*
+
+# Python virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Private or uploaded PDFs
+Research_Paper.pdf
+uploaded_document.pdf
+
+# Streamlit secrets
+.streamlit/secrets.toml
